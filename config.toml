@@ -1,0 +1,17 @@
+baseURL = "https://elections.openeastleigh.uk"
+languageCode = "en-gb"
+title = "Eastleigh Elections"
+Paginate = 1000
+googleAnalytics = ""
+theme = "showcase"
+disableKinds = ["taxonomy", "taxonomyTerm", "RSS"]
+
+# this setting should always be set to false, otherwise it will break the section navigation bar
+pluralizelisttitles = false
+
+[params]
+  author = "Open Eastleigh"
+  url = "https://www.openeastleigh.uk/"
+  description = "Eastleigh Elections"
+  message = "Local elections Thursday 6 May 2021"
+  hideAutoMenu = false
