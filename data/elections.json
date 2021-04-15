@@ -117,6 +117,13 @@
     "url": "elections/parish.eastleigh.hamble-le-rice.2021-05-06/"
   },
   {
+    "id": "pcc.hampshire.2021-05-06",
+    "org": "Hampshire Constabulary",
+    "division": "Police and Crime Commissioner for Hampshire",
+    "kind": "PCC",
+    "url": "https://whocanivotefor.co.uk/elections/pcc.hampshire.2021-05-06/"
+  },
+  {
     "id": "local.hampshire.hedge-end-west-end-south.2021-05-06",
     "org": "Hampshire",
     "division": "Hedge End & West End South",
