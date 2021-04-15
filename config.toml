@@ -15,3 +15,6 @@ pluralizelisttitles = false
   description = "Eastleigh Elections"
   message = "Local elections Thursday 6 May 2021"
   hideAutoMenu = false
+
+[social]
+  twitter = "https://twitter.com/ESLHustings"
