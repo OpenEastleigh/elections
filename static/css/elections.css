@@ -1,0 +1,4 @@
+/* TODO use tailwind @apply? */
+div#content ul li a {
+    text-decoration: underline;
+}
