@@ -13,7 +13,7 @@ pluralizelisttitles = false
   author = "Open Eastleigh"
   url = "https://www.openeastleigh.uk/"
   description = "Eastleigh Elections"
-  message = "Local elections Thursday 6 May 2021"
+  message = ""
   hideAutoMenu = false
 
 [social]
