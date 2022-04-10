@@ -13,7 +13,7 @@ pluralizelisttitles = false
   author = "Open Eastleigh"
   url = "https://www.openeastleigh.uk/"
   description = "Eastleigh Elections"
-  message = "Local by-election Thursday 10 February 2022"
+  message = "Eastleigh local election Thursday 5 May 2022"
   hideAutoMenu = false
 
 [social]
