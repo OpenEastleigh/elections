@@ -1,0 +1,36 @@
+<div class="flex flex-wrap sm:flex-row flex-col py-6 mb-12">
+  <h2 class="text-gray-900 font-medium title-font text-2xl mb-2 sm:mb-0 text-center w-full">Are you ready to vote?!</h2>
+
+  <header class="mb-6">
+    <p>For the first time <a class="underline" href="https://www.gov.uk/how-to-vote/photo-id-youll-need">you will need to show photo ID to vote at polling stations</a> in these local elections, so make sure you're ready!</p>
+    <p>Postal voting is the easiest way to make sure you don't lose your vote but whichever way you prefer to vote, don't miss any of these dealines!</p>
+  </header>
+
+  {{ if .Site.Params.Timetable.register }}
+  <p class="w-full">
+    🗃️ <a class="underline" href="https://www.electoralcommission.org.uk/i-am-a/voter/register-vote-and-update-your-details">Register to vote</a> by
+    <b>{{ .Site.Params.Timetable.register | time.Format "3:04pm on Monday 2 January" }}</b>
+  </p>
+  {{ end }}
+
+  {{ if .Site.Params.Timetable.postal }}
+  <p class="w-full">
+    ✉️ <a class="underline" href="https://www.electoralcommission.org.uk/i-am-a/voter/apply-vote-post">Apply for a postal vote</a> by
+    <b>{{ .Site.Params.Timetable.postal | time.Format "3pm on Monday 2 January" }}</b>
+  </p>
+  {{ end }}
+
+  {{ if .Site.Params.Timetable.proxy }}
+  <p class="w-full">
+    🗳️ <a class="underline" href="https://www.electoralcommission.org.uk/i-am-a/voter/apply-vote-proxy">Apply to vote by proxy</a> by
+    <b>{{ .Site.Params.Timetable.proxy | time.Format "3pm on Monday 2 January" }}</b>
+  </p>
+  {{ end }}
+
+  {{ if .Site.Params.Timetable.photoid }}
+  <p class="w-full">
+    📷 <a class="underline" href="https://www.electoralcommission.org.uk/i-am-a/voter/voter-id/applying-a-voter-authority-certificate">Apply for a Voter Authority Certificate</a> by
+    <b>{{ .Site.Params.Timetable.photoid | time.Format "3pm on Monday 2 January" }}</b>
+  </p>
+  {{ end }}
+</div>

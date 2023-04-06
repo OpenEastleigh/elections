@@ -17,5 +17,11 @@ pluralizelisttitles = false
   message = "Eastleigh local election Thursday 4 May 2023"
   hideAutoMenu = false
 
+[params.timetable]
+  register = 2023-04-17T23:59:00
+  postal = 2023-04-18T17:00:00
+  proxy = 2023-04-25T17:00:00
+  photoid = 2023-04-25T17:00:00
+
 [social]
   twitter = "ESLHustings"
