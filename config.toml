@@ -12,9 +12,9 @@ pluralizelisttitles = false
 [params]
   author = "Open Eastleigh"
   url = "https://www.openeastleigh.uk/"
-  description = "Find all your candidates and hustings videos for the 2023 Eastleigh local elections!"
+  description = "Find all your candidates for the 2024 Eastleigh local elections!"
   images = ['/images/logo.png']
-  message = "Eastleigh local election Thursday 4 May 2023"
+  message = "Eastleigh local election Thursday 2 May 2024"
   hideAutoMenu = false
 
 [params.timetable]
