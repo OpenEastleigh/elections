@@ -1,5 +1,54 @@
 [
   {
+    "id": "parish.eastleigh.bishopstoke.itchen.2024-05-02",
+    "org": "Bishopstoke",
+    "division": "Bishopstoke (Itchen)",
+    "kind": "Parish",
+    "url": "elections/parish.eastleigh.bishopstoke.itchen.2024-05-02/"
+  },
+  {
+    "id": "parish.eastleigh.bishopstoke.riverside.2024-05-02",
+    "org": "Bishopstoke",
+    "division": "Bishopstoke (Riverside)",
+    "kind": "Parish",
+    "url": "elections/parish.eastleigh.bishopstoke.riverside.2024-05-02/"
+  },
+  {
+    "id": "parish.eastleigh.bishopstoke.stoke-common.2024-05-02",
+    "org": "Bishopstoke",
+    "division": "Bishopstoke (Stoke Common)",
+    "kind": "Parish",
+    "url": "elections/parish.eastleigh.bishopstoke.stoke-common.2024-05-02/"
+  },
+  {
+    "id": "parish.eastleigh.bishopstoke.underwood.2024-05-02",
+    "org": "Bishopstoke",
+    "division": "Bishopstoke (Underwood)",
+    "kind": "Parish",
+    "url": "elections/parish.eastleigh.bishopstoke.underwood.2024-05-02/"
+  },
+  {
+    "id": "parish.eastleigh.bishopstoke.whalesmead.2024-05-02",
+    "org": "Bishopstoke",
+    "division": "Bishopstoke (Whalesmead)",
+    "kind": "Parish",
+    "url": "elections/parish.eastleigh.bishopstoke.whalesmead.2024-05-02/"
+  },
+  {
+    "id": "parish.eastleigh.botley.2024-05-02",
+    "org": "Botley",
+    "division": "Botley",
+    "kind": "Parish",
+    "url": "elections/parish.eastleigh.botley.2024-05-02/"
+  },
+  {
+    "id": "parish.eastleigh.hamble-le-rice.2024-05-02",
+    "org": "Hamble-Le-Rice",
+    "division": "Hamble-Le-Rice",
+    "kind": "Parish",
+    "url": "elections/parish.eastleigh.hamble-le-rice.2024-05-02/"
+  },
+  {
     "id": "local.eastleigh.bishopstoke.2024-05-02",
     "org": "Eastleigh",
     "division": "Bishopstoke",
