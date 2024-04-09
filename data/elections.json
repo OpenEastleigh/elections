@@ -94,5 +94,12 @@
     "kind": "Borough",
     "url": "https://whocanivotefor.co.uk/elections/local.eastleigh.hiltingbury.2024-05-02/",
     "hustings": "https://hustings.eastleigh.online/hustings/hiltingbury-2024-05-02/32/"
+  },
+  {
+    "id": "pcc.hampshire.2024-05-02",
+    "org": "Hampshire Constabulary",
+    "division": "Police and Crime Commissioner for Hampshire",
+    "kind": "PCC",
+    "url": "https://whocanivotefor.co.uk/elections/pcc.hampshire.2024-05-02/"
   }
 ]
