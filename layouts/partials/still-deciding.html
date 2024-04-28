@@ -1,0 +1,28 @@
+<div class="flex flex-wrap sm:flex-row flex-col py-6 mb-12">
+  <h2 class="text-gray-900 font-medium title-font text-2xl mb-2 sm:mb-0 text-center w-full">Undecided?</h2>
+
+  <p class="w-full">If you're having trouble deciding who to vote for, there's help available!</p>
+
+  <p class="w-full">
+    <a class="underline" href="https://hustings.eastleigh.online/">Eastleigh Borough Hustings</a> has videos from candidates in most of the local elections:
+    <ul>
+      {{ range .Site.Data.elections }}
+      {{ if .hustings }}
+      <li>🎥 <a class="underline" href="{{ .hustings }}">{{ (or .division .org) }}</a></li>
+      {{end}}
+      {{end}}   
+    </ul>
+  </p>
+
+  <p class="w-full">
+    <a class="underline" href="https://www.eastleighnews.co.uk/">Eastleigh News</a> has candidate profiles for the local elections and Hampshire police and crime commissioner candidates:
+    <ul>
+      <li>📰 <a class="underline" href="https://www.eastleighnews.co.uk/2024/04/local-election-candidates-previews-part-1/">Local election part 1: Bishopstoke, Botley, Bursledon and Hound, Chandler's Ford, Eastleigh Central, Eastleigh North, and Eastleigh South</a></li>
+      <li>📰 <a class="underline" href="https://www.eastleighnews.co.uk/2024/04/local-eelection-candidate-profiles-part-2/">Local election part 2: Fair Oak & Horton Heath, Hamble & Netley, Hedge End North, Hedge End South, and Hiltingbury</a></li>
+      <li>📰 <a class="underline" href="https://www.eastleighnews.co.uk/2024/04/hampshire-police-and-crime-commissioner-candidates/">Hampshire police and crime commissioner candidates</a></li>
+    </ul>
+
+  <p class="w-full">
+    And of course there's <a class="underline" href="https://whocanivotefor.co.uk/">Who Can I Vote For?</a>
+  </p>
+</div>
