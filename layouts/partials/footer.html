@@ -81,7 +81,6 @@
     </span>
   </div>
 </footer>
-{{ template "_internal/google_analytics_async.html" . }}
 
 <script>
   const allTypes = ["all","search",{{ range ( uniq ( .Scratch.Get "kinds" )) }}"{{lower .}}",{{ end }}];
