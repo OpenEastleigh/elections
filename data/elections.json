@@ -1,1 +1,14 @@
-[]
+[
+    {
+        "id": "parl.eastleigh.2024-07-04",
+        "org": "Eastleigh",
+        "kind": "Parliament",
+        "url": "https://whocanivotefor.co.uk/elections/parl.eastleigh.2024-07-04/"
+    },
+    {
+        "id": "parl.hamble-valley.2024-07-04",
+        "org": "Hamble Valley",
+        "kind": "Parliament",
+        "url": "https://whocanivotefor.co.uk/elections/parl.hamble-valley.2024-07-04/"
+    }
+]
