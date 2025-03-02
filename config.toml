@@ -12,9 +12,9 @@ pluralizelisttitles = false
 [params]
   author = "Open Eastleigh"
   url = "https://www.openeastleigh.uk/"
-  description = "Everything you need to know about the Eastleigh and Hamble Valley candidates for the 2024 general election!"
+  description = "Everything you need to know about the Hamble & Netley ward candidates for the 2025 local by-election!"
   images = ['/images/logo.png']
-  message = "General Election 4 July 2024"
+  message = "Eastleigh local by-election, 6 March 2025"
   hideAutoMenu = false
 
 [params.timetable]
@@ -23,6 +23,3 @@ pluralizelisttitles = false
   postal = 2024-06-19T17:00:00Z
   proxy = 2024-06-26T17:00:00Z
   photoid = 2024-06-26T17:00:00Z
-
-[social]
-  twitter = "ESLHustings"
