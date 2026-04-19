@@ -1,5 +1,61 @@
 [
   {
+    "id": "local.hampshire.bishopstoke-fair-oak.2026-05-07",
+    "org": "Hampshire",
+    "division": "Bishopstoke & Fair Oak",
+    "kind": "County",
+    "url": "https://whocanivotefor.co.uk/elections/local.hampshire.bishopstoke-fair-oak.2026-05-07/"
+  },
+  {
+    "id": "local.hampshire.botley-hedge-end-north.2026-05-07",
+    "org": "Hampshire",
+    "division": "Botley & Hedge End North",
+    "kind": "County",
+    "url": "https://whocanivotefor.co.uk/elections/local.hampshire.botley-hedge-end-north.2026-05-07/"
+  },
+  {
+    "id": "local.hampshire.chandlers-ford.2026-05-07",
+    "org": "Hampshire",
+    "division": "Chandler's Ford",
+    "kind": "County",
+    "url": "https://whocanivotefor.co.uk/elections/local.hampshire.chandlers-ford.2026-05-07/"
+  },
+  {
+    "id": "local.hampshire.eastleigh-north.2026-05-07",
+    "org": "Hampshire",
+    "division": "Eastleigh North",
+    "kind": "County",
+    "url": "https://whocanivotefor.co.uk/elections/local.hampshire.eastleigh-north.2026-05-07/"
+  },
+  {
+    "id": "local.hampshire.eastleigh-south.2026-05-07",
+    "org": "Hampshire",
+    "division": "Eastleigh South",
+    "kind": "County",
+    "url": "https://whocanivotefor.co.uk/elections/local.hampshire.eastleigh-south.2026-05-07/"
+  },
+  {
+    "id": "local.hampshire.hamble.2026-05-07",
+    "org": "Hampshire",
+    "division": "Hamble",
+    "kind": "County",
+    "url": "https://whocanivotefor.co.uk/elections/local.hampshire.hamble.2026-05-07/"
+  },
+  {
+    "id": "local.hampshire.hamble.2026-05-07local.hampshire.hedge-end-west-end-south.2026-05-07",
+    "org": "Hampshire",
+    "division": "Hedge End & West End South",
+    "kind": "County",
+    "url": "https://whocanivotefor.co.uk/elections/local.hampshire.hamble.2026-05-07local.hampshire.hedge-end-west-end-south.2026-05-07/"
+  },
+  {
+    "id": "local.hampshire.west-end-horton-heath.2026-05-07",
+    "org": "Hampshire",
+    "division": "West End & Horton Heath",
+    "kind": "County",
+    "url": "https://whocanivotefor.co.uk/elections/local.hampshire.west-end-horton-heath.2026-05-07/"
+  },
+  {
     "id": "local.eastleigh.bishopstoke.2026-05-07",
     "org": "Eastleigh",
     "division": "Bishopstoke",
