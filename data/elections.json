@@ -4,7 +4,8 @@
     "org": "Eastleigh",
     "division": "Bishopstoke",
     "kind": "Borough",
-    "url": "https://whocanivotefor.co.uk/elections/local.eastleigh.bishopstoke.2026-05-07/"
+    "url": "https://whocanivotefor.co.uk/elections/local.eastleigh.bishopstoke.2026-05-07/",
+    "hustings": "https://eastleigh.online/hustings/event/bishopstoke-borough-2026/"
   },
   {
     "id": "local.eastleigh.botley.2026-05-07",
@@ -32,14 +33,16 @@
     "org": "Eastleigh",
     "division": "Eastleigh Central",
     "kind": "Borough",
-    "url": "https://whocanivotefor.co.uk/elections/local.eastleigh.eastleigh-central.2026-05-07/"
+    "url": "https://whocanivotefor.co.uk/elections/local.eastleigh.eastleigh-central.2026-05-07/",
+    "hustings": "https://eastleigh.online/hustings/event/eastleigh-central-borough-2026/"
   },
   {
     "id": "local.eastleigh.eastleigh-north.2026-05-07",
     "org": "Eastleigh",
     "division": "Eastleigh North",
     "kind": "Borough",
-    "url": "https://whocanivotefor.co.uk/elections/local.eastleigh.eastleigh-north.2026-05-07/"
+    "url": "https://whocanivotefor.co.uk/elections/local.eastleigh.eastleigh-north.2026-05-07/",
+    "hustings": "https://eastleigh.online/hustings/event/eastleigh-north-borough-2026/"
   },
   {
     "id": "local.eastleigh.eastleigh-south.2026-05-07",
@@ -53,7 +56,8 @@
     "org": "Eastleigh",
     "division": "Fair Oak & Horton Heath",
     "kind": "Borough",
-    "url": "https://whocanivotefor.co.uk/elections/local.eastleigh.fair-oak-horton-heath.2026-05-07/"
+    "url": "https://whocanivotefor.co.uk/elections/local.eastleigh.fair-oak-horton-heath.2026-05-07/",
+    "hustings": "https://eastleigh.online/hustings/event/fair-oak-horton-heath-borough-2026/"
   },
   {
     "id": "local.eastleigh.hamble-netley.2026-05-07",
@@ -81,7 +85,8 @@
     "org": "Eastleigh",
     "division": "Hiltingbury",
     "kind": "Borough",
-    "url": "https://whocanivotefor.co.uk/elections/local.eastleigh.hiltingbury.2026-05-07/"
+    "url": "https://whocanivotefor.co.uk/elections/local.eastleigh.hiltingbury.2026-05-07/",
+    "hustings": "https://eastleigh.online/hustings/event/hiltingbury-borough-2026/"
   },
   {
     "id": "local.eastleigh.west-end-north.2026-05-07",
@@ -95,14 +100,16 @@
     "org": "Eastleigh",
     "division": "West End South",
     "kind": "Borough",
-    "url": "https://whocanivotefor.co.uk/elections/local.eastleigh.west-end-south.2026-05-07/"
+    "url": "https://whocanivotefor.co.uk/elections/local.eastleigh.west-end-south.2026-05-07/",
+    "hustings": "https://eastleigh.online/hustings/event/west-end-south-borough-2026/"
   },
   {
     "id": "local.hampshire.bishopstoke-fair-oak.2026-05-07",
     "org": "Hampshire",
     "division": "Bishopstoke & Fair Oak",
     "kind": "County",
-    "url": "https://whocanivotefor.co.uk/elections/local.hampshire.bishopstoke-fair-oak.2026-05-07/"
+    "url": "https://whocanivotefor.co.uk/elections/local.hampshire.bishopstoke-fair-oak.2026-05-07/",
+    "hustings": "https://eastleigh.online/hustings/event/bishopstoke-fair-oak-county-2026/"
   },
   {
     "id": "local.hampshire.botley-hedge-end-north.2026-05-07",
@@ -123,7 +130,8 @@
     "org": "Hampshire",
     "division": "Eastleigh North",
     "kind": "County",
-    "url": "https://whocanivotefor.co.uk/elections/local.hampshire.eastleigh-north.2026-05-07/"
+    "url": "https://whocanivotefor.co.uk/elections/local.hampshire.eastleigh-north.2026-05-07/",
+    "hustings": "https://eastleigh.online/hustings/event/eastleigh-north-county-2026/"
   },
   {
     "id": "local.hampshire.eastleigh-south.2026-05-07",
@@ -151,6 +159,7 @@
     "org": "Hampshire",
     "division": "West End & Horton Heath",
     "kind": "County",
-    "url": "https://whocanivotefor.co.uk/elections/local.hampshire.west-end-horton-heath.2026-05-07/"
+    "url": "https://whocanivotefor.co.uk/elections/local.hampshire.west-end-horton-heath.2026-05-07/",
+    "hustings": "https://eastleigh.online/hustings/event/west-end-horton-heath-county-2026/"
   }
 ]
