@@ -1,86 +1,9 @@
 [
   {
-    "id": "parish.chandlers-ford.chandlers-ford-east.2026-05-07",
-    "org": "Chandler's Ford",
-    "division": "Chandler's Ford (East)",
-    "kind": "Parish",
-    "url": "elections/parish.chandlers-ford.chandlers-ford-east.2026-05-07/"
-  },
-  {
-    "id": "parish.chandlers-ford.chandlers-ford-west.2026-05-07",
-    "org": "Chandler's Ford",
-    "division": "Chandler's Ford (West)",
-    "kind": "Parish",
-    "url": "elections/parish.chandlers-ford.chandlers-ford-west.2026-05-07/"
-  },
-  {
-    "id": "parish.chandlers-ford.hiltingbury-east.2026-05-07",
-    "org": "Chandler's Ford",
-    "division": "Hiltingbury (East)",
-    "kind": "Parish",
-    "url": "elections/parish.chandlers-ford.hiltingbury-east.2026-05-07/"
-  },
-  {
-    "id": "parish.chandlers-ford.hiltingbury-west.2026-05-07",
-    "org": "Chandler's Ford",
-    "division": "Hiltingbury (West)",
-    "kind": "Parish",
-    "url": "elections/parish.chandlers-ford.hiltingbury-west.2026-05-07/"
-  },
-  {
-    "id": "parish.chandlers-ford.velmore.2026-05-07.md",
-    "org": "Chandler's Ford",
-    "division": "Velmore",
-    "kind": "Parish",
-    "url": "elections/parish.chandlers-ford.velmore.2026-05-07/"
-  },
-  {
-    "id": "town.eastleigh.boyatt-wood-east.2026-05-07",
+    "id": "local.eastleigh.hedge-end-south.by.2026-07-30",
     "org": "Eastleigh",
-    "division": "Boyatt Wood (East)",
-    "kind": "Town",
-    "url": "elections/town.eastleigh.boyatt-wood-east.2026-05-07/"
-  },
-  {
-    "id": "town.eastleigh.boyatt-wood-west.2026-05-07",
-    "org": "Eastleigh",
-    "division": "Boyatt Wood (West)",
-    "kind": "Town",
-    "url": "elections/town.eastleigh.boyatt-wood-west.2026-05-07/"
-  },
-  {
-    "id": "town.eastleigh.eastleigh-blenheim-and-barton-park.2026-05-07",
-    "org": "Eastleigh",
-    "division": "Blenheim and Barton Park",
-    "kind": "Town",
-    "url": "elections/town.eastleigh.eastleigh-blenheim-and-barton-park.2026-05-07/"
-  },
-  {
-    "id": "town.eastleigh.eastleigh-brookwood.2026-05-07",
-    "org": "Eastleigh",
-    "division": "Brookwood",
-    "kind": "Town",
-    "url": "elections/town.eastleigh.eastleigh-brookwood.2026-05-07/"
-  },
-  {
-    "id": "town.eastleigh.eastleigh-cable.2026-05-07",
-    "org": "Eastleigh",
-    "division": "Cable",
-    "kind": "Town",
-    "url": "elections/town.eastleigh.eastleigh-cable.2026-05-07/"
-  },
-  {
-    "id": "town.eastleigh.eastleigh-chestnut.2026-05-07",
-    "org": "Eastleigh",
-    "division": "Chestnut",
-    "kind": "Town",
-    "url": "elections/town.eastleigh.eastleigh-chestnut.2026-05-07/"
-  },
-  {
-    "id": "town.eastleigh.eastleigh-nightingale-and-north-stoneham.2026-05-07",
-    "org": "Eastleigh",
-    "division": "Nightingale and North Stoneham",
-    "kind": "Town",
-    "url": "elections/town.eastleigh.eastleigh-nightingale-and-north-stoneham.2026-05-07/"
+    "division": "Hedge End South",
+    "kind": "Borough",
+    "url": "https://whocanivotefor.co.uk/elections/local.eastleigh.hedge-end-south.by.2026-07-30/"
   }
 ]
